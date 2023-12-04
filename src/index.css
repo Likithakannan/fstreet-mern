@@ -7,6 +7,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.Header {
+  font-family: "Sofia", sans-serif;
+}
+
+#carousel{
+  max-height: 500px;
+}
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
